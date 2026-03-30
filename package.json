@@ -1,0 +1,25 @@
+{
+  "name": "hexo-tag-abcjs-next",
+  "version": "0.1.0",
+  "description": "A Hexo abcjs tag plugin with modern synth audio controls, animation sync, and zero-config CDN defaults.",
+  "main": "index.js",
+  "keywords": [
+    "hexo",
+    "hexo-plugin",
+    "abcjs",
+    "music",
+    "notation"
+  ],
+  "license": "MIT",
+  "engines": {
+    "node": ">=16"
+  },
+  "peerDependencies": {
+    "hexo": ">=6.0.0"
+  },
+  "files": [
+    "index.js",
+    "README.md",
+    "LICENSE"
+  ]
+}

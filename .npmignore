@@ -1,0 +1,5 @@
+node_modules
+.git
+.github
+README_DEV.md
+test
